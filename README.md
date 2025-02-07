@@ -6,13 +6,16 @@ Este repositório, concebido com propósitos didáticos, representa os desafios 
 
 ## Objetivo
 
-Aprender e aplicar os fundamentos de Programação Orientada a Objetos (POO) e Linguagem de Modelagem Unificada (UML), os quais incluem:
+Aprender e aplicar os fundamentos de Programação usando a linguagem Java e mostrar na pratica recursos como:
 
-- Conceito de POO;
-- Classes e pacotes;
+- Logica de programação;
+- Estruturas de controle e repetição;
+- Conceitos de POO;
 - Visibilidade dos recursos;
 - PIlares do POO;
-- Interface.
+- Collections;
+- Interface e classes Abstratas,
+- Spring e API Rest;
 
 ## Ferramentas e tecnologias
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
