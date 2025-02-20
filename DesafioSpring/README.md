@@ -8,7 +8,8 @@ Este Desafio, concebido com propósitos didáticos, representa um desafio de usa
 ## Objetivo
 
 - Aplicar e aprofundar os conhecimentos e tecnicas usando o Spring
-- Aplicar padrões de projetos
+- Usar o Spring Data JPA para aprofundar os conhecimentos de ORM
+- Aplicar padrões de projetos aplicando design patterns java spring
 - Criar api usando arquitetura rest 
 
 
