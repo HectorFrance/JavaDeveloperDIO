@@ -7,7 +7,9 @@ Este Desafio, concebido com propósitos didáticos, representa um desafio de usa
 
 ## Objetivo
 
-Aprender e aplicar os padrões de projetos.
+- Aplicar e aprofundar os conhecimentos e tecnicas usando o Spring
+- Aplicar padrões de projetos
+- Criar api usando arquitetura rest 
 
 
 ## Ferramentas e tecnologias
