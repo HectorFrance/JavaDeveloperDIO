@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>- Desafio: Banco -</h1>
+  <h1>- Desafio -</h1>
 </div>
 
 Este Desafio, concebido com propósitos didáticos, representa um desafio de usar java com  spring para criar uma api rest seguindo os padrões de projetos, criado em colaboração entre a [Digital Innovation One](https://www.dio.me/) e e o Bradesco, como parte do Bootcamp Bradesco 2025 - Backend com Java.
