@@ -47,9 +47,15 @@ public class Main {
                     break;
 
                 case 3:
+
+                    break;
+
+                case 0:
                     System.out.println("Obrigado Por jogar");
                     jogando=false;
                     break;
+
+
             }
         }while(jogando);
 
