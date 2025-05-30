@@ -25,12 +25,6 @@
 
 ---
 
-## 4. Ambiente Local (On-Premises)
-- **O que é:** Infraestrutura física mantida localmente pela própria empresa.
-- **Responsabilidades do provedor:** Nenhuma.
-- **Responsabilidades do cliente:** Tudo (rede, servidores, sistema operacional, aplicações, dados).
-
----
 
 ## Comparação Rápida
 
@@ -39,4 +33,3 @@
 | **SaaS**          | Tudo                             | Apenas uso do software               |
 | **PaaS**          | Infraestrutura e plataforma      | Aplicações e dados                   |
 | **IaaS**          | Infraestrutura básica            | Sistema operacional, apps, dados     |
-| **On-Premises**   | Nada                             | Tudo (rede, servidores, sistema etc) |
