@@ -7,13 +7,4 @@
  - Pelo Global Explore da Microsoft é possível visualizar todas conexões e estrutura da regiões e outras informações dos datacenters da azure e suas regoes para saber suar propriedades e características pelo mundo.
 
 - Os grupos de recursos do azure facilitam o controle geral dos recursos, isso pode ser usando tanto na parte financeira para discriminar melhor os gastos do recurso em especifico como também pode ajudar na parte de gerenciamento e nas permissões e acessos.
-Ex:
-
-Azure Subscription
-└── Grupo de Recursos: MeuSistemaWeb
-    ├── 🖥️ Máquina Virtual (vm-backend)
-    ├── 🗄️ Banco de Dados SQL (db-app)
-    ├── 🌐 Aplicação Web (web-app)
-    ├── 🔁 API (api-service)
-    └── 🌐 Rede Virtual (vnet-app) 
 
