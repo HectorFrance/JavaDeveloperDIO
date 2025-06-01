@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>- Benefícios da Nuvem -</h1>
+  <h1>- Gupos de recurso e Datacenters -</h1>
 </div>
 
  - No Brasil existem duas regiões uma em São Paulo que os dados são replicados para os Estados Unidos e outra no Rio de Janeiro para dados sensíveis que não pode estar saindo do pais e sendo compartilhados, a do Rio de Janeiro tem possibilidade dos dados serem replicados para a de São Paulo.
